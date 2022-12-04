@@ -1,4 +1,5 @@
-data_target: "data.csv"
+# data_target: "data.csv"
+data_target: null
 title: "Something"
 xlabel: "This thing"
 ylabel: "This other thing"
