@@ -38,7 +38,6 @@ if __name__ == "__main__":
             showfliers=False,
             whis=99999,
             palette=color_palette[i:],
-
         )
         ax.set(xlabel=config.xlabel, ylabel=config.ylabel, title=config.title)
         plt.tight_layout()
