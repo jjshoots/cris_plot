@@ -1,0 +1,6 @@
+data_target: "data.csv"
+title: "Something"
+xlabel: "This thing"
+ylabel: "This other thing"
+dpi: 100
+save_format: "png"
